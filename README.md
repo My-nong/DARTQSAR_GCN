@@ -27,69 +27,11 @@ Use this software, you can use model based on "Attention- and gate-augmented Gra
 ## Installation
 
 ### Download
-Download all parts (DART_Predictor_small.7z.001 through DART_Predictor_small.7z.018) from the repository.
-To download these files, Use wget to download all files with the following command:
-```bash
-wget -i download_links.txt
-```
-using download_links.txt in this repository.
 
-### Guide to Extracting Split 7z Archives
-
-#### Windows
-
-##### Prerequisites
-1. Install [7-Zip program](https://7-zip.org/)
-
-##### Extraction Steps
-1. Right-click on the `.7z.001` file
-2. Select 7-Zip menu
-3. Click "Extract Here"
-
-#### macOS
-
-##### Prerequisites
-Install one of the following programs:
-- Keka (App Store)
-- The Unarchiver (App Store)
-
-##### Extraction Steps
-1. Double-click the `.7z.001` file
-   - Or right-click → "Open With" → Select Keka/The Unarchiver
-
-#### Unix/Linux
-
-##### Prerequisites
-Install p7zip:
-
-###### Ubuntu/Debian
-```bash
-sudo apt-get install p7zip-full
-```
-
-#### CentOS/RHEL
-```bash
-sudo yum install p7zip p7zip-plugins
-```
-
-##### Extraction Steps
-Run the following command in terminal:
-```bash
-7z x DART_Predictor_small.7z.001
-```
 
 #### Important Notes
 
-- **Requirements:**
-  - All split files (.7z.001, .7z.002, etc.) must be in the same folder
-  - Filenames must be in correct sequential order
-  - Verify that all files are completely downloaded
-  - Only select the first file (.7z.001) to start extraction
-
 - **Troubleshooting:**
-  - If extraction fails, check for file corruption or missing parts
-  - Verify the integrity of all split files
-  - Make sure you have sufficient disk space for the extracted contents
   - If failed to extract, please contact as chltjs1921@naver.com.
 
 ## Additional Tips
@@ -137,7 +79,10 @@ If you want FAQ, please contact as chltjs1921@naver.com. Also as troubleshooting
 
 ## Version History
 
-### v1.0.0 (Novenber 15, 2024)
+### v1.0.1 (Novenber 15, 2024)
+- Fix bug of prediction result
+
+### v1.0.0 (Novenber 14, 2024)
 - Initial release
 
 ---

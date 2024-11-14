@@ -27,7 +27,7 @@ Use this software, you can use model based on "Attention- and gate-augmented Gra
 ## Installation
 
 ### Download
-Download all parts (DART_Predictor_small.7z.001 through DART_Predictor_small.7z.016) from the repository.
+Download all parts (DART_Predictor_small.7z.001 through DART_Predictor_small.7z.018) from the repository.
 
 ### Guide to Extracting Split 7z Archives
 

@@ -98,21 +98,21 @@ Run the following command in terminal:
 ### Feature 1
 Variety of input methods
   - Enter SMILES directly
-  ![Feature 1 Screenshot]('Feature_1_direct.png')
+  ![Feature 1 Screenshot](Feature_1_direct.png)
   - Draw
-  ![Feature 1 Screenshot]('Feature_1_draw.png')
+  ![Feature 1 Screenshot](Feature_1_draw.png)
   - Search
-  ![Feature 1 Screenshot]('Feature_1_search.png')
+  ![Feature 1 Screenshot](Feature_1_search.png)
   - Load external file
-  ![Feature 1 Screenshot]('Feature_1_load.png')
+  ![Feature 1 Screenshot](Feature_1_load.png)
 
 ### Feature 2
 Not only prediction, but also visualization of molecular structure with subgraph
-![Feature 2 Screenshot]('Feature_2.png')
+![Feature 2 Screenshot](Feature_2.png)
 
 ### Feature 3
 Save and export results by html and pdf format
-![Feature 3 Screenshot]('Feature_3.png')
+![Feature 3 Screenshot](Feature_3.png)
 
 ## User Guide
 ### Basic Workflow
@@ -124,7 +124,7 @@ Save and export results by html and pdf format
 
 ### Interface Overview
 #### Main Window
-![Main Window]('Main_window.png')
+![Main Window](Main_window.png)
 
 
 ## FAQ

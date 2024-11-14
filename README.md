@@ -28,6 +28,11 @@ Use this software, you can use model based on "Attention- and gate-augmented Gra
 
 ### Download
 Download all parts (DART_Predictor_small.7z.001 through DART_Predictor_small.7z.018) from the repository.
+To download these files, Use wget to download all files with the following command:
+```bash
+wget -i download_links.txt
+```
+using download_links.txt in this repository.
 
 ### Guide to Extracting Split 7z Archives
 

@@ -17,6 +17,7 @@ Code for "Attention- and gate-augmented Graph Convolution Network modeling to pr
 Use this software, you can use model based on "Attention- and gate-augmented Graph Convolution Network modeling to predict the potential for Reproductive and Developmental toxicity" with structure information of specific molecule.
 
 ## System Requirements
+
 ### Minimum Requirements
 - OS: Windows 10 or later / macOS 10.15 or later
 
@@ -24,6 +25,10 @@ Use this software, you can use model based on "Attention- and gate-augmented Gra
 - OS: Windows 11 / macOS 13 or later
 
 ## Installation
+
+### Download
+Download all parts (DART_Predictor_small.7z.001 through DART_Predictor_small.7z.016) from the repository.
+
 ### Guide to Extracting Split 7z Archives
 
 #### Windows
@@ -65,7 +70,7 @@ sudo yum install p7zip p7zip-plugins
 ##### Extraction Steps
 Run the following command in terminal:
 ```bash
-7z x filename.7z.001
+7z x DART_Predictor_small.7z.001
 ```
 
 #### Important Notes
@@ -80,6 +85,7 @@ Run the following command in terminal:
   - If extraction fails, check for file corruption or missing parts
   - Verify the integrity of all split files
   - Make sure you have sufficient disk space for the extracted contents
+  - If failed to extract, please contact as chltjs1921@naver.com.
 
 ## Additional Tips
 
@@ -90,39 +96,36 @@ Run the following command in terminal:
 
 ## Key Features
 ### Feature 1
-Description and usage examples of the feature
-![Feature 1 Screenshot](image_path)
+Variety of input methods
+  - Enter SMILES directly
+  ![Feature 1 Screenshot]('\Feature_1_direct.png')
+  - Draw
+  ![Feature 1 Screenshot]('\Feature_1_draw.png')
+  - Search
+  ![Feature 1 Screenshot]('\Feature_1_search.png')
+  - Load external file
+  ![Feature 1 Screenshot]('\Feature_1_load.png')
 
 ### Feature 2
-Description and usage examples of the feature
-![Feature 2 Screenshot](image_path)
+Not only prediction, but also visualization of molecular structure with subgraph
+![Feature 2 Screenshot]('\Feature_2.png')
+
+### Feature 3
+Save and export results by html and pdf format
+![Feature 3 Screenshot]('\Feature_3.png')
 
 ## User Guide
 ### Basic Workflow
-1. Starting the Program
-2. Import structure information by drawing, searching or loading external file.
-3. Predict toxity
-4. Saving and Exporting
+1. Start the Program double-click DART_Predictor.exe
+2. Import structure information by enter SMILES directly in the text box below, drawing structure in the canvas and click Get SMILES button to get SMILES, searching by PubChem CID or name at the search box next to the Search button with Search button, or loading external file(*.smi, *.mol, *.sdf files.) using Load button.
+3. Predict toxity use Predict button below.
+4. Saving and Exporting with html or pdf format. Also, you can initialize the result of prediction in the main window use Clear All button.
 
 
 ### Interface Overview
 #### Main Window
-![Main Window](image_path)
+![Main Window]('\Main_window.png')
 
-
-
-### Advanced Features
-#### Feature A
-Detailed explanation of advanced feature A
-```python
-# Example code or configuration
-setting_a = value_1
-setting_b = value_2
-```
-
-#### Feature B
-Detailed explanation of advanced feature B
-![Feature B Advanced Usage](image_path)
 
 ## FAQ
 If you want FAQ, please contact as chltjs1921@naver.com. Also as troubleshooting.

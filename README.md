@@ -27,7 +27,7 @@ Use this software, you can use model based on "Attention- and gate-augmented Gra
 ## Installation
 
 ### Download
-- Google Drive: [DART_Predictor (.zip)](), [DART_Predictor (.7z)](), [DART_Predictor (.tar)]()
+- Google Drive: [DART_Predictor (.zip)](https://drive.google.com/file/d/12kqVRL00MsWnz7hDY4EE3VmQ6GD_9Hst/view?usp=sharing), [DART_Predictor (.7z)](https://drive.google.com/file/d/1IO8XKEdJQXimOWB3ZSSHhMklOypkkPuy/view?usp=sharing), [DART_Predictor (.tar)](https://drive.google.com/file/d/1SZv8i-wUp-LePGpm2255cTBDkyC0sfor/view?usp=sharing)
   - latest update: 2024-11-15
  
 Just download one of them and extract.

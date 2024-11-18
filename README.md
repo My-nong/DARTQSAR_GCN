@@ -27,8 +27,8 @@ Use this software, you can use model based on "Attention- and gate-augmented Gra
 ## Installation
 
 ### Download
-- Google Drive: [DART_Predictor (.zip)](https://drive.google.com/file/d/12kqVRL00MsWnz7hDY4EE3VmQ6GD_9Hst/view?usp=sharing), [DART_Predictor (.7z)](https://drive.google.com/file/d/1IO8XKEdJQXimOWB3ZSSHhMklOypkkPuy/view?usp=sharing), [DART_Predictor (.tar)](https://drive.google.com/file/d/1SZv8i-wUp-LePGpm2255cTBDkyC0sfor/view?usp=sharing)
-  - latest update: 2024-11-15
+- Google Drive: [DART_Predictor (.zip)](https://drive.google.com/file/d/1vW2G3kafG-AoT53BChEt3_QZ2BPddmtN/view?usp=sharing), [DART_Predictor (.7z)](https://drive.google.com/file/d/1P3amaVhVFZDGazZgWCBnYDYuZ99HTe34/view?usp=sharing), [DART_Predictor (.tar)](https://drive.google.com/file/d/1CCPgR6EGTTy1HJ18PDDQQCWE0UcsQl7-/view?usp=sharing)
+  - latest update: 2024-11-18
  
 Just download one of them and extract.
 
@@ -78,9 +78,12 @@ Save and export results by html and pdf format
 
 
 ## FAQ
-If you want FAQ, please contact as chltjs1921@naver.com. Also as troubleshooting.
+If you want FAQ, please contact as minong960@sogang.ac.kr or chltjs1921@naver.com. Also as troubleshooting.
 
 ## Version History
+
+### v1.0.2 (Novenber 18, 2024)
+- Fix bug of prediction result
 
 ### v1.0.1 (Novenber 15, 2024)
 - Fix bug of prediction result

@@ -27,8 +27,8 @@ Use this software, you can use model based on "Attention- and gate-augmented Gra
 ## Installation
 
 ### Download
-- Google Drive: [DART_Predictor (.zip)](https://drive.google.com/file/d/1vW2G3kafG-AoT53BChEt3_QZ2BPddmtN/view?usp=sharing), [DART_Predictor (.7z)](https://drive.google.com/file/d/1P3amaVhVFZDGazZgWCBnYDYuZ99HTe34/view?usp=sharing), [DART_Predictor (.tar)](https://drive.google.com/file/d/1CCPgR6EGTTy1HJ18PDDQQCWE0UcsQl7-/view?usp=sharing)
-  - latest update: 2024-11-18
+- Google Drive: [DART_Predictor (.zip)](https://drive.google.com/file/d/1mv7AkTCkvYZI1MT19-kqEwBRSI92bQkd/view?usp=sharing), [DART_Predictor (.7z)](https://drive.google.com/file/d/13bRF9ffYbJvMZ016htCfMpGUJns3AXy9/view?usp=sharing), [DART_Predictor (.tar)](https://drive.google.com/file/d/1bbFZJbZREanqiRuXBPBWiVOnhHID6jKz/view?usp=sharing)
+  - latest update: 2025-03-13
  
 Just download one of them and extract.
 
@@ -81,6 +81,9 @@ Save and export results by html and pdf format
 If you want FAQ, please contact as minong960@sogang.ac.kr or chltjs1921@naver.com. Also as troubleshooting.
 
 ## Version History
+
+### v1.1 (March 13, 2025)
+- Domain determination mechanism is changed. Previously, we used fingerprint. But in this version, we use readout layer in model.
 
 ### v1.0.2 (Novenber 18, 2024)
 - Fix bug of prediction result
